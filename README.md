@@ -15,6 +15,14 @@
 - 💬 Pergunte-me sobre UI/UX e Frontend
 - 📫 Como me alcançar: email@exemplo.com
 
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="500" alt="GIF" style="border-radius: 12px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="500" alt="GIF" style="border-radius: 12px;"/>
+</p>
+
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
